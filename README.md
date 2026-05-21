@@ -10,11 +10,11 @@ A structured project exploring reasoning frameworks, documentation workflows, an
 
 ## Goals
 - Build a modular reasoning engine
-- Explore state‑based reasoning interactions
+- Explore state based reasoning interactions
 - Document evaluation and modeling approaches
 
 ## Extended Description
-IRobot is an exploratory workspace focused on building structured reasoning systems and documenting the workflows behind them. The project emphasizes clarity, modular design, and repeatable processes—mirroring real-world enablement and automation practices. 
+IRobot is an exploratory workspace focused on building structured reasoning systems and documenting the workflows behind them. The project emphasizes clarity, modular design, and repeatable processes mirroring real world enablement and automation practices. 
 
 This repository serves as a sandbox for:
 - designing lightweight evaluation methods
