@@ -6,7 +6,7 @@ A structured project exploring reasoning frameworks, documentation workflows, an
 - Python project skeleton
 - Research notes
 - System instructions and rubric drafts
-- Task planning via GitHub Projects
+
 
 ## Goals
 - Build a modular reasoning engine
